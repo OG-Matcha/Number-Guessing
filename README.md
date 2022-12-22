@@ -28,6 +28,6 @@ This is a number guessing game written in Python
 <hr>
 
 ## Example
-![Imgur](https://imgur.com/yYVXYlA)
+<img alt="Example" src="https://github.com/OG-Matcha/Number-Guessing/blob/83b8e3c7ded6e1b3ed65756ae9351a56c3f32bd4/Example.png" style = "width: 30%">
 
 ### If you like this, please give it a star, any suggestion is welcome.
