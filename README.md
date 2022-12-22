@@ -27,4 +27,7 @@ This is a number guessing game written in Python
 4. Have fun with it.
 <hr>
 
+## Example
+![Imgur](https://imgur.com/yYVXYlA)
+
 ### If you like this, please give it a star, any suggestion is welcome.
