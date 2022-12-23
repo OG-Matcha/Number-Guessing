@@ -13,7 +13,7 @@ def game() -> None:
 
     # Ask user to input upper and lower bounds
     upper = check_valid_number(input("Please enter upper bound (positive integer): "), "upper")
-    lower = check_valid_number(input("Please enter lower bound (positive intege): "), "lower")
+    lower = check_valid_number(input("Please enter lower bound (positive integer): "), "lower")
 
     # Check if lower bound is larger than or equal to upper bound
     while lower >= upper:
