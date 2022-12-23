@@ -75,6 +75,7 @@ def print_rounds(count: int) -> None:
     None
     """
 
+    # New feature in Python 3.10
     match count:
         case 1:
             print("< 1st Round >\n")
@@ -106,12 +107,9 @@ def check_type(types: str, lower: Optional[int] = None, upper: Optional[int] = N
         The number input.
     """
 
-    # New feature in Python 3.10
     match types:
         case "upper" | "lower":
             return input(f"Please enter {types} bound: ")
-
-        # Check if the number is between upper and lower
         case "number":
             return input(f"Please enter a number ({lower} ~ {upper}): ")
 
